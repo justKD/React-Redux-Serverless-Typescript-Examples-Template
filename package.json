@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-serverless-typescript-examples-template",
+  "name": "react-redux-serverless-typescript-example",
   "version": "1.0.0",
   "description": "This is an example template for React/Redux Typescript projects.\n\nThis is not a barebones template: it's ready to be deployed to Vercel with serverless functionality, and it includes some basic use examples for SCSS, Material-UI, RxJS, and React Router.",
   "keywords": [],

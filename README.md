@@ -6,7 +6,7 @@ This is an example template for React/Redux Typescript projects.
 
 This is not a barebones template: it's ready to be deployed to Vercel with serverless functionality, and it includes some basic use examples for SCSS, Material-UI, RxJS, and React Router.
 
-[Fork on CodeSandbox](https://codesandbox.io/s/react-redux-serverless-typescript-examples-template-gvjlj)
+[Fork on CodeSandbox](https://codesandbox.io/s/react-redux-serverless-typescript-examples-template-jwn7y)
 
 ### Serverless
 
