@@ -1,6 +1,6 @@
 # React-Redux-Serverless-Typescript-Example
 
-##### v 1.0.0 | © Cadence Holmes 2020
+##### v 1.0.0 | © Cadence Holmes 2020 | MIT License
 
 This is an example template for React/Redux Typescript projects.
 
