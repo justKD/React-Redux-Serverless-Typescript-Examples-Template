@@ -15,7 +15,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { RootStateType } from './redux/store';
 import { AppSlice } from './redux/slices/AppSlice';
 
-import './styles/styles.scss';
+import './styles/main.scss';
 import { AppContent } from './components/AppContent';
 
 const useStyles = makeStyles(() =>
