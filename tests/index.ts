@@ -5,6 +5,7 @@
  * @license MIT
  * @fileoverview
  * Main entry point to the test suite.
+ * Import this folder to add the test suite.
  */
 
 import './_tests.setup';
