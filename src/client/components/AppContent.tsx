@@ -24,7 +24,7 @@ import Tab from '@material-ui/core/Tab';
 import pixelheart from '../assets/pixel-heart.png';
 import '../styles/animations/jello.scss';
 import '../styles/animations/shake.scss';
-import { animate } from '../../util/index';
+import { animate } from '../../util/animate';
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -209,6 +209,7 @@ export const AppContent = (): React.ReactElement => {
    */
   React.useEffect(() => {
     if (location.pathname !== '/') setRoutePathIndex(1);
+    /* eslint-disable-next-line react-hooks/exhaustive-deps */
   }, []);
 
   return (
